@@ -174,12 +174,6 @@ export default function LandingPage() {
       tag="İletişim"
       title="Dijital Geleceğinizi İnşa Edelim"
       description="Size 24 saat içerisinde dönüş yapıyoruz"
-      buttons={[
-        { 
-          text: "WhatsApp Destek", 
-          href: "https://wa.me/05525021869" 
-        }
-      ]}
       buttonText="Danışmanlık Al"
     />
   </div>
