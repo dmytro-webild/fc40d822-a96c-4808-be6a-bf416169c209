@@ -173,7 +173,7 @@ export default function LandingPage() {
         variant: "gradient-bars"}}
       tag="İletişim"
       title="Dijital Geleceğinizi İnşa Edelim"
-      description="Size 24 saat içerisinde dönüş yapıyoruz"
+      description="Danışmanlık talebiniz için formu doldurun, 24 saat içinde size ulaşalım"
       buttonText="Danışmanlık Al"
     />
   </div>
