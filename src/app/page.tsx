@@ -173,7 +173,13 @@ export default function LandingPage() {
         variant: "gradient-bars"}}
       tag="İletişim"
       title="Dijital Geleceğinizi İnşa Edelim"
-      description="Kurumsal çözüm talepleriniz için uzman ekibimizle iletişime geçin. Size 24 saat içerisinde dönüş yapıyoruz."
+      description="Size 24 saat içerisinde dönüş yapıyoruz"
+      buttons={[
+        { 
+          text: "WhatsApp Destek", 
+          href: "https://wa.me/05525021869" 
+        }
+      ]}
       buttonText="Danışmanlık Al"
     />
   </div>
